@@ -466,3 +466,7 @@ button:focus {
   display: flex;
   align-items: baseline;
 }
+
+.footer-left {
+  margin-right: 120px;
+}
