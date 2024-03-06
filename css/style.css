@@ -335,6 +335,12 @@ button:focus {
   padding: 40px 32px;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+  position: absolute;
+  top: 0;
+}
+.portfolio-box:hover .portfolio-text,
+.portfolio-box:focus .portfolio-text {
+  transform: translateY(0%);
 }
 
 .portfolio-heading {
