@@ -467,6 +467,7 @@ button:focus {
   display: flex;
   gap: 16px;
   padding-left: 0;
+  margin: 0;
 }
 
 .footer-container {
